@@ -1,0 +1,3 @@
+nImplement Multiplication algorithm using Divide and Conquer approach to multiply any two integer numbers.
+
+nUse any language or visual language (tool) of your choice. 

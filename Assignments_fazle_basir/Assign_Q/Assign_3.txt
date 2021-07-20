@@ -1,0 +1,8 @@
+You have the two sorted lists of N/2 elements each. Find the median N numbers when two lists are combined. Suggest an  efficient algorithm for solving the problem and give its analysis (Recurrence Relation / Asymptotic notation etc...)
+ØFor example
+List 1 :-  80  85  86  87   100
+
+List 2 :-  2     60  69  70   86
+
+Median is :- 80 and 85
+

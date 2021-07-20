@@ -1,0 +1,8 @@
+Use the Master method to give tight asymptotic bounds for the following recurrences
+  T(n) = 4T(n/2) + n
+
+  T(n) = 4T(n/2) + n2
+
+  T(n) = 4T(n/2) + n3
+
+  T(n) = 2T(n/4) + n1/2
