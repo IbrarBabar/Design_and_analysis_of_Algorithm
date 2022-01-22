@@ -1,5 +1,5 @@
-# Design_and_analysis_of_Algorithm
-The Repo includes
---- Lectures
---- Assignments
---- Mid Term exam
+# Design_and_analysis_of_Algorithm <br>
+The Repo includes <br>
+--- <b>Lectures <br>
+--- <b>Assignments <br>
+--- <b>Mid Term exam
